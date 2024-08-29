@@ -3,6 +3,7 @@ function setup() {
   //and 400 pixels high
   createCanvas(600, 400);
 }
+
 function draw() {
   //sky blue background
   background(135, 206, 235);
