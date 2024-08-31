@@ -4,6 +4,8 @@ function setup() {
   createCanvas(600, 400);
 }
 
+
+
 function draw() {
   //sky blue background
   background(135, 206, 235);
